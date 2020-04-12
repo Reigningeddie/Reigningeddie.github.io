@@ -1,0 +1,21 @@
+body {
+    background-image: url("Abandoned\ st.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Permanent Marker', cursive;
+    color: white;
+    }
+nav {
+    opacity: 90%;
+}
+.jumbotron_jumbotron-fluid {
+    padding: 40px;
+    text-align: center;
+}
+.container_marketing {
+    padding: 50px;
+    text-align: center;
+}
+#img {
+    border-radius: 50%;
+}
